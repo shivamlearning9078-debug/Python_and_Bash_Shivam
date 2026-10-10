@@ -1,0 +1,4 @@
+Python and Bash Assignment
+Name: Shivam
+Topic: File Handling in Python
+This file was created using Python.
